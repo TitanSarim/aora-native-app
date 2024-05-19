@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "native_app_full_stack_appwrite",
-    "slug": "native_app_full_stack_appwrite",
+    "name": "Aora",
+    "slug": "aora",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
